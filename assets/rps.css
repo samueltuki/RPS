@@ -8,4 +8,15 @@ body {
       padding: 25px 50px;
       width: 80vw;
   }
+  .action {
+    max-width: 800px;
+    padding: 40px 0;
+    margin: 0 auto;
+    background-color: cadetblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+  }
   
