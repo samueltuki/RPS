@@ -32,4 +32,10 @@ body {
     width: 100%;
     max-width: 120px;
   }
+  .display-moves {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+  }
   
